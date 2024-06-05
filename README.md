@@ -1,5 +1,8 @@
 # WEB DEVELOPMENT INTERSHIP
-## TASK 1 :
+
+## -- LEVEL 1 --
+
+### TASK 1 :
   Implemented a landing page using :
    
     * HTML 
