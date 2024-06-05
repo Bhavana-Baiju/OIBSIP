@@ -9,6 +9,15 @@
     
     * CSS
 
+## TASK 2 :
+  Developed a fully Responsive Portfolio using : 
+
+    * HTML
+
+    * CSS
+
+    * JS
+
 ### TASK 3 :
   Implemented a fully functioning Temperature converter using :
 
