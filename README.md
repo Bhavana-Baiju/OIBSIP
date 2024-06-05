@@ -8,3 +8,12 @@
     * HTML 
     
     * CSS
+
+### TASK 3 :
+  Implemented a fully functioning Temperature converter using :
+
+    * HTML
+
+    * JS
+
+    * Internal CSS
